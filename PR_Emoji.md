@@ -12,6 +12,8 @@ In general, each review comment will fall under one (or more) of the following e
 
 :thought_balloon: Thinking out loud - this isn't necessarily actionable, but indicates if the reviewer is unsure about a change or has some concerns that aren't blocking, they can appear here
 
+:question: A question from the reviewer
+
 :bulb: Idea or suggestion - usually offering another way of solving the same problem with some additional benefit for e.g. readability, allocations, performance etc.
 
 :pencil2: Small correction - usually a typo, translation change, or something of that nature
