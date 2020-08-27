@@ -1,6 +1,6 @@
 # Code Review Emoji
 
-This has been extremely useful in past teams, so I'm rebuilding an emoji list for PR review comments and an explanation associated with them here
+This has been extremely useful in past teams (chur Flick), so I'm rebuilding an emoji list for PR review comments and an explanation associated with them here
 
 In general, each review comment will fall under one (or more) of the following emoji designations
 
